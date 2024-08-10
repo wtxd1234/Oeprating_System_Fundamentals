@@ -1,1 +1,1 @@
-# (EXAM ❗❗❗)[exam.md]
+# [EXAM❗❗❗](exam.md)
